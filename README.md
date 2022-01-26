@@ -1,0 +1,2 @@
+# Crude-Oil-Price-Prediction-Brent-Excelr-and-Ai-variant-Project
+           Oil is a commodity notorious for being able to go in the complete opposite direction after a single market event.          This is because the fundamentals of oil price are rarely based on real-time data, instead, it is driven by externalities making our attempt to forecast it even more challenging.          As the economy will be highly affected by oil prices. Our model will help to understand the pattern in prices to help the customers and businesses to make smart decisions.                 
